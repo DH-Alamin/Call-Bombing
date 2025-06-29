@@ -2,6 +2,8 @@
 
 #run 👇👇
 
+rm -rf Call-Bombing
+
 git clone https://github.com/DH-Alamin/Call-Bombing
 
 cd Call-Bombing
